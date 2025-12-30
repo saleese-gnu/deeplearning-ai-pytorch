@@ -23,10 +23,14 @@ The PyTorch for Deep Learning Professional Certificate provides hands-on trainin
 │   ├── Module 2/                           # Neural Networks Fundamentals
 │   ├── Module 3/                           # Deep Learning Techniques
 │   └── Module 4/                           # Image Classification Projects
-├── Course-2-Techniques-and-Ecosystem/      # Techniques and Ecosystem Tools 🔄
-│   └── (In Progress)
-├── Course-3-Advanced-Architectures/        # Advanced Architectures and Deployment 📅
-│   └── (Upcoming)
+├── Course-2-Techniques-and-Ecosystem/      # Techniques and Ecosystem Tools ✅
+│   ├── Module_1/                           # Optimizers & Learning Rate Scheduling
+│   ├── Module_2/                           # Hyperparameter Tuning with Optuna
+│   ├── Module_3/                           # Model Profiling & Performance
+│   └── Module_4/                           # Transfer Learning
+├── Course-3-Advanced-Architectures/        # Advanced Architectures and Deployment 🔄
+│   ├── Module 1/                           # Transformers & Attention
+│   └── Module 2/                           # (In Progress)
 └── README.md
 ```
 
@@ -37,12 +41,12 @@ Foundation course covering PyTorch fundamentals, neural network construction, an
 
 **Key Skills**: PyTorch tensors, autograd, neural network modules, training loops, data loaders
 
-### Course 2: PyTorch: Techniques and Ecosystem Tools 🔄 In Progress
+### Course 2: PyTorch: Techniques and Ecosystem Tools ✅ Completed
 Advanced techniques for model optimization, hyperparameter tuning, and ecosystem tools for production workflows.
 
 **Key Skills**: Optimizers, learning rate scheduling, Optuna, profiling, transfer learning
 
-### Course 3: PyTorch: Advanced Architectures and Deployment 📅 Upcoming
+### Course 3: PyTorch: Advanced Architectures and Deployment 🔄 In Progress
 Modern architectures and deployment strategies for production AI systems.
 
 **Key Skills**: Transformers, generative models, ONNX, MLflow, model compression

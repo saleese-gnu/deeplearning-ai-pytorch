@@ -40,17 +40,28 @@ models/
 # Data files
 data/
 datasets/
+dataset/
 *.csv
 *.h5
 *.hdf5
 *.tgz
 *.tar.gz
 *.zip
+*.pkl
+*.pickle
+*.npy
+*.npz
 *_data/
 EMNIST_DATA/
-cifar_*/
+**/cifar*/
+**/cifar-*/
 flower_data/
 plants_dataset/
+corrupted_flower_data/
+# CIFAR batch files (no extension)
+**/data_batch_*
+**/test_batch
+**/batches.meta
 
 # IDE
 .vscode/
