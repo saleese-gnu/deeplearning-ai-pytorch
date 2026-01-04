@@ -1,5 +1,8 @@
 # PyTorch for Deep Learning Professional Certificate
 
+✅ **Certificate Completed: January 4, 2026**
+[View Certificate](https://learn.deeplearning.ai/certificates/2a9c2778-7424-4379-b34a-384272c9303c)
+
 This repository contains my work from the **PyTorch for Deep Learning Professional Certificate** offered by DeepLearning.AI. As a BIE/Data Engineer and AI Engineer, this certificate strengthens my deep learning expertise for building production-ready AI systems.
 
 ## About the Professional Certificate
@@ -13,7 +16,7 @@ The PyTorch for Deep Learning Professional Certificate provides hands-on trainin
 - **NLP Applications**: Text processing and language models with Hugging Face
 - **Model Optimization**: Pruning, quantization, and performance profiling
 - **MLOps & Deployment**: ONNX export, MLflow tracking, production pipelines
-- **Advanced Architectures**: Transformers, attention mechanisms, diffusion models
+- **Advanced Architectures**: Siamese Networks, ResNet, DenseNet, Stable Diffusion
 
 ## Repository Structure
 
@@ -28,9 +31,9 @@ The PyTorch for Deep Learning Professional Certificate provides hands-on trainin
 │   ├── Module_2/                           # Hyperparameter Tuning with Optuna
 │   ├── Module_3/                           # Model Profiling & Performance
 │   └── Module_4/                           # Transfer Learning
-├── Course-3-Advanced-Architectures/        # Advanced Architectures and Deployment 🔄
-│   ├── Module 1/                           # Transformers & Attention
-│   └── Module 2/                           # (In Progress)
+├── Course-3-Advanced-Architectures/        # Advanced Architectures and Deployment ✅
+│   ├── Module 1/                           # Siamese Networks, ResNet, DenseNet
+│   └── Module 2/                           # Stable Diffusion & ONNX Deployment
 └── README.md
 ```
 
@@ -46,15 +49,15 @@ Advanced techniques for model optimization, hyperparameter tuning, and ecosystem
 
 **Key Skills**: Optimizers, learning rate scheduling, Optuna, profiling, transfer learning
 
-### Course 3: PyTorch: Advanced Architectures and Deployment 🔄 In Progress
-Modern architectures and deployment strategies for production AI systems.
+### Course 3: PyTorch: Advanced Architectures and Deployment ✅ Completed
+Modern architectures and deployment strategies for production AI systems. Implemented Siamese Networks, ResNet, DenseNet, and explored Stable Diffusion with Hugging Face Diffusers.
 
-**Key Skills**: Transformers, generative models, ONNX, MLflow, model compression
+**Key Skills**: Siamese Networks, ResNet, DenseNet, Stable Diffusion, ONNX export, production deployment
 
 ## Technologies & Tools
 
 **Deep Learning**
-- PyTorch, TorchVision, Hugging Face Transformers
+- PyTorch, TorchVision, Hugging Face Transformers & Diffusers
 
 **MLOps & Deployment**
 - ONNX, MLflow, Optuna
@@ -70,8 +73,9 @@ Modern architectures and deployment strategies for production AI systems.
 - **Medical Imaging**: Pneumonia diagnosis from chest X-rays
 - **Image Classification**: Multi-class classification (flowers, animals, insects)
 - **Text Classification**: NLP with embeddings and transformers
-- **Machine Translation**: Sequence-to-sequence models
-- **Model Optimization**: Compression and deployment pipelines
+- **Similarity Learning**: Siamese Networks for signature verification
+- **Generative AI**: Stable Diffusion image generation
+- **Model Deployment**: ONNX export for production systems
 
 ## Professional Background
 
@@ -86,7 +90,9 @@ Visit [yasarkaankaya.com](https://yasarkaankaya.com) to see this and other AI/ML
 **Program**: [PyTorch for Deep Learning Professional Certificate](https://learn.deeplearning.ai/specializations/pytorch-for-deep-learning-professional-certificate/overview)
 **Provider**: DeepLearning.AI
 **Format**: 3 Courses, Hands-on Labs & Projects
+**Completed**: January 4, 2026
 
 ---
 
 *This repository is for educational purposes. Course materials are property of DeepLearning.AI.*
+
