@@ -75,7 +75,7 @@ def start_mlflow_ui(base_path='/mlflow', port=5000, jupyter_port=8888):
     print("\n" + "="*60)
     print("MLflow UI is running in the background!")
     print("="*60)
-    print(f"Access it at: http://{os.environ['WORKSPACE_ID']}.labs.coursera.org{base_path}")
+    print(f"Access it at: http://127.0.0.1:{port}")
     print("\nThe server is running in the background. You can continue with the notebook.")
     print("To stop the server later, run: process.terminate()")
     print("="*60)
